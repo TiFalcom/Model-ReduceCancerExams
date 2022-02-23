@@ -15,7 +15,7 @@ Reduce the number of exams that a pacient need to do to get a cancer diagnostics
 
 
 ## Objective
-Model created during a Course from <a href=https://cursos.alura.com.br/>Alura</a>, to improve Machine Learning, Clustering and Reduce Dimension knowledge and techniques.
+Model created during a Course from <a href=https://cursos.alura.com.br/>Alura</a>, to improve Machine Learning, Clustering, Feature Selection and Reduce Dimension knowledge and techniques.
 
 
 ## Credits
