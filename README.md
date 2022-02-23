@@ -9,11 +9,14 @@
   <li><a href=https://pypi.org/project/matplotlib/>[matplotlib]</a> - Used to plot graphs - 3.3.4</li>
 </ol>
 
-## Objective
 
-Model created during a Couse from <a href=https://cursos.alura.com.br/>Alura</a>
+## Problem
+Reduce the number of exams that a pacient need to do to get a cancer diagnostics.
+
+
+## Objective
+Model created during a Course from <a href=https://cursos.alura.com.br/>Alura</a>, to improve Machine Learning, Clustering and Reducing Dimension knowledge and techniques.
 
 
 ## Credits
-
 Created by diego.giovanini4@gmail.com
